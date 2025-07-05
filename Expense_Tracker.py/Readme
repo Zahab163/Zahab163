@@ -1,0 +1,39 @@
+# Expense Tracker App
+
+An interactive web app built with **Python** and **Streamlit** to help users analyze their monthly income, expenses, and savings. This project was developed as part of a hands-on assignment to apply financial logic, data visualization, and user interaction in a real-world context.
+
+---
+
+## Features
+
+-  Input monthly income and expenses
+-  Calculate savings and savings percentage
+-  Set and compare savings goals
+-  Break down expenses into Essentials, Wants, and Investments
+-  Visualize financial health with dynamic feedback
+-  Session state to retain data during interaction
+
+---
+
+##Tech Stack
+
+| Tool       | Purpose                          |
+|------------|----------------------------------|
+| Python     | Core programming language        |
+| Streamlit  | Web app framework                |
+| Pandas     | Data handling and calculations   |
+| Git & GitHub | Version control and deployment |
+
+---
+
+##  Screenshots
+
+> _You can add screenshots here to show the app interface._
+
+---https://screenrec.com/share/x3DdTbhU2B
+
+## How to Run Locally
+
+1. **Clone the repository**
+   ```bash
+   git clone http://localhost:8503/
