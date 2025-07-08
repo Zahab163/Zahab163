@@ -1,7 +1,3 @@
-Absolutely, Zahabia! Here's a polished and professional **"About" section** you can use for your GitHub profile. It reflects your unique blend of skills in digital marketing, data science, and creative tech:
-
----
-
 ##  About Me
 
 Hi, I'm Zahabia — a curious mind at the intersection of **data, design, and digital strategy**. With a background in **Pre-Medical Sciences** and a degree in **Darse Nizami**, I bring a unique blend of analytical thinking and deep-rooted discipline to everything I do.
