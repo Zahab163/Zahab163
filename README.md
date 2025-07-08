@@ -1,6 +1,6 @@
 ##  About Me
 
-Hi, I'm Zahabia — a curious mind at the intersection of **data, design, and digital strategy**. With a background in **Pre-Medical Sciences** and a degree in **Darse Nizami**, I bring a unique blend of analytical thinking and deep-rooted discipline to everything I do.
+Hi, I'm Zahabia Ahmed , a curious mind at the intersection of **data, design, and digital strategy**. With a background in **Pre-Medical Sciences** and a degree in **Darse Nizami**, I bring a unique blend of analytical thinking and deep-rooted discipline to everything I do.
 
 I'm passionate about:
 -  **Data Science & Python** – Exploring insights through NumPy, Streamlit, and AWS tools like SageMaker & Polly  
