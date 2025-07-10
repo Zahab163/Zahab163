@@ -1,6 +1,6 @@
 
 
-Hi! I’m Zahabia Ahmed , a methodical and curious developer passionate about turning data into engaging digital experiences. I enjoy blending creativity with technical precision, especially through web-based solutions like Streamlit. This repo is where I’ll be building and sharing my journey into **Artificial Intelligence**, **Data Science**, and other interactive app-based projects. 🚀
+Hi! I’m Zahabia Ahmed , a methodical and curious developer passionate about turning data into engaging digital experiences. I enjoy blending creativity with technical precision, especially through web-based solutions like Streamlit. This repo is where I’ll be building and sharing my journey into **Artificial Intelligence**, **Data Science**, and other interactive app-based projects. 
 
 ## 📦 About This Repository
 
