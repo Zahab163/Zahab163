@@ -1,0 +1,43 @@
+Hello, It's Zahabia Ahmed here!
+I;m Currently a Student of AI and Data Sciences in SMIT, from professor Miss Aqsa Moiz.
+My LinkedIn ID is https://www.linkedin.com/in/zahabia-ahmed-digitalmarketer-pythonenthusiast
+
+## Expense Tracker Application
+
+A simple and interactive expense tracking app built with Streamlit.
+
+## Features
+- Add, view, and filter expenses
+- Visualize spending by category
+- Lightweight and deployable via Streamlit Cloud
+
+## Demo
+[Streamlit Live App] My Application Link :(# 💸 Expense Tracker App
+
+A simple and interactive expense tracking app built with Streamlit.
+
+## Features
+- Add, view, and filter expenses
+- Visualize spending by category
+- Lightweight and deployable via Streamlit Cloud
+
+## Demo
+[Streamlit Live App] My App Link : # 💸 Expense Tracker App
+
+A simple and interactive expense tracking app built with Streamlit.
+
+## Features
+- Add, view, and filter expenses
+- Visualize spending by category
+- Lightweight and deployable via Streamlit Cloud
+
+## Demo
+[Streamlit Live App] My Application Link : https://expensetrackerap.streamlit.app/
+
+## How to Run
+1. Clone the repo
+2. Run `streamlit run app.py`
+
+## License
+MIT
+
