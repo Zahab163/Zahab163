@@ -3,27 +3,63 @@
 Hi! I’m Zahabia Ahmed , a methodical and curious developer passionate about turning data into engaging digital experiences. I enjoy blending creativity with technical precision, especially through web-based solutions like Streamlit. This repo is where I’ll be building and sharing my journey into **Artificial Intelligence**, **Data Science**, and other interactive app-based projects. 
 
 ## 📦 About This Repository
+# 💸 Expense Tracker App
 
-This is my dedicated space for all **Streamlit** apps and future projects exploring the fields of:
-- AI & machine learning
-- Data visualization and analytics
-- Interactive dashboards
-- Web deployment & user-centric design
+An elegant, user-friendly app to help you **record**, **analyze**, and **visualize** your expenses with ease.  
+Built with **Streamlit**, this project blends thoughtful design and practical utility—ideal for managing personal finance on the go.
 
-Whether it's experimenting with models or deploying usable tools, everything here will reflect my learning and growth in tech.
-
->  If you’re curious about my earlier Python projects (including scripts, utilities, and mini-tools), check out my other repository named [`python`](https://github.com/Zahab163/python).
-
-## Coming Soon
-
-Stay tuned for:
-- Streamlit Expense Tracker (deployed & shareable)
-- AI-driven data explorers
-- Visual storytelling dashboards
-
-## 💡 Let’s Connect
-
-I’m actively refining my digital presence and sharing my work across platforms. Feel free to reach out or follow my journey as I grow my developer identity and dive deeper into data-driven innovation.
+🔗 **Live Demo**: [Expense Tracker App](https://expensetrackerap.streamlit.app/)  
+📽️ **Screen Recording**: [Watch the App in Action](https://screenrec.com/share/x3DdTbhU2B)
 
 ---
-🔄 _Always a work in progress — just like great code._
+
+## ✨ Features
+
+- 🧾 Log daily expenses with category and description  
+- 📅 Filter by date, type, or custom tags  
+- 📊 Interactive charts showing spending habits over time  
+- 💬 Dynamic summaries for budget insights  
+- 📌 Session-based tracking to keep data organized
+
+---
+
+## 🛠 Tech Stack
+
+- **Framework**: Streamlit  
+- **Language**: Python  
+- **Tools**: PowerShell, VS Code  
+- **Version Control**: Git & GitHub
+
+---
+
+## 🧠 What I Learned
+
+This project helped me build:
+- Streamlit dashboards with a clean UI  
+- Python functions for real-time data analysis  
+- Chart rendering using Matplotlib and Seaborn  
+- Git-based collaboration and deployment on Streamlit Cloud  
+- Error handling and troubleshooting across command-line tools
+
+---
+
+##  Future Plans
+
+- 🗂️ Export expense data to CSV or Google Sheets  
+- 🧑‍💼 Add user login for secure multi-user access  
+- 📆 Budget calendar view with progress tracking  
+- 🌈 Personal themes and customization options  
+
+---
+
+## 📬 Connect With Me
+
+I'm always up for feedback, collaboration, or cool app ideas!  
+- 🔗 GitHub Profile(https://github.com/Zahab163 
+
+---
+
+Thanks for exploring my Expense Tracker app!  
+Let’s budget with clarity, creativity, and confidence 
+
+
