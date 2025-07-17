@@ -47,7 +47,7 @@ I continuously update this space as I complete new modules and develop skills in
 
 I’m all about learning, sharing, and growing through collaboration. You can find updates, insights, and project demos here and on:
 
-- 📌 [GitHub Projects](https://github.com/Zahab163)  
+- 📌 [GitHub Projects](https://github.com/Zahab163)
 
 Thanks for stopping by! 🌟  
 Feel free to explore, contribute, or reach out—I'm always up for exchanging ideas.
