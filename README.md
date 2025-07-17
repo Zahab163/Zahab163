@@ -90,7 +90,6 @@ Built with **Streamlit**, this project blends thoughtful design and practical ut
 This project helped me build:
 - Streamlit dashboards with a clean UI  
 - Python functions for real-time data analysis  
-- Chart rendering using Matplotlib and Seaborn  
 - Git-based collaboration and deployment on Streamlit Cloud  
 - Error handling and troubleshooting across command-line tools
 
@@ -108,7 +107,7 @@ This project helped me build:
 ## 📬 Connect With Me
 
 I'm always up for feedback, collaboration, or cool app ideas!  
-- 🔗 GitHub Profile(https://github.com/Zahab163 
+- 🔗 GitHub Profile(https://github.com/Zahab163) 
 
 ---
 
