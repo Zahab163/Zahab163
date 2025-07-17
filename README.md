@@ -24,7 +24,7 @@ I continuously update this space as I complete new modules and develop skills in
 
 ## 🚀 Personal Projects Worth Exploring
 
-- 💸 **Expense Tracker App** – Built with Streamlit, ideal for mindful budgeting . checkout here :{Expense Tracker App}(https://github.com/Zahab163/Zahab163.git)
+- 💸 **Expense Tracker App** – Built with Streamlit, ideal for mindful budgeting . checkout here :[Expense Tracker App](https://github.com/Zahab163/Zahab163.git)
 - 🎡 **Motion Simulator** – A physics-based project using NumPy and Streamlit visuals.  checkout here:[Zahab163-Motion simulator](https://github.com/Zahab163/Motion_simulator_App)
 - 🧠 **Smart Daily Planner App** – A productivity assistant tailored for homemakers and remote workers .checkout here:[Smart Home Planner App](https://github.com/Zahab163/Smart_Home_PLanner.git)
 - 🛣️ **Traffic Visualization Project** – Analyzing day vs night volume and construction impacts. checkout here:[Data_ Quest_Traffic](https://github.com/Zahab163/Data_Quest_Traffic.git)
