@@ -24,10 +24,10 @@ I continuously update this space as I complete new modules and develop skills in
 
 ## 🚀 Personal Projects Worth Exploring
 
-- 💸 **Expense Tracker App** – Built with Streamlit, ideal for mindful budgeting . checkout here :https://github.com/Zahab163/Zahab163.git
-- 🎡 **Motion Simulator** – A physics-based project using NumPy and Streamlit visuals.  checkout here: https://github.com/Zahab163/Motion_simulator_App
-- 🧠 **Smart Daily Planner App** – A productivity assistant tailored for homemakers and remote workers .checkout here:https://github.com/Zahab163/Smart_Home_PLanner.git 
-- 🛣️ **Traffic Visualization Project** – Analyzing day vs night volume and construction impacts. checkout here:https://github.com/Zahab163/Data_Quest_Traffic.git
+- 💸 **Expense Tracker App** – Built with Streamlit, ideal for mindful budgeting . checkout here :{Expense Tracker App}(https://github.com/Zahab163/Zahab163.git)
+- 🎡 **Motion Simulator** – A physics-based project using NumPy and Streamlit visuals.  checkout here:[Zahab163-Motion simulator](https://github.com/Zahab163/Motion_simulator_App)
+- 🧠 **Smart Daily Planner App** – A productivity assistant tailored for homemakers and remote workers .checkout here:[Smart Home Planner App](https://github.com/Zahab163/Smart_Home_PLanner.git)
+- 🛣️ **Traffic Visualization Project** – Analyzing day vs night volume and construction impacts. checkout here:[Data_ Quest_Traffic](https://github.com/Zahab163/Data_Quest_Traffic.git)
 - **Python Projects** - If you’re curious about my earlier Python projects (including scripts, utilities, and mini-tools), check out my other repository named [`python`](https://github.com/Zahab163/python).
 
 
@@ -47,7 +47,7 @@ I continuously update this space as I complete new modules and develop skills in
 
 I’m all about learning, sharing, and growing through collaboration. You can find updates, insights, and project demos here and on:
 
-- 📌 GitHub Projects(https://github.com/Zahab163)  
+- 📌 [GitHub Projects](https://github.com/Zahab163)  
 
 Thanks for stopping by! 🌟  
 Feel free to explore, contribute, or reach out—I'm always up for exchanging ideas.
