@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Zahabia Ahmed
 
-Welcome to my GitHub!a methodical and curious developer passionate about turning data into engaging digital experiences. I enjoy blending creativity with technical precision, especially through web-based solutions like Streamlit. This repo is where I’ll be building and sharing my journey into **Artificial Intelligence**, **Data Science**, and other interactive app-based projects.  I’m a developer with a knack for turning ideas into practical, interactive tools. My work blends **creativity**, **code**, and **real-world insight**, whether I'm analyzing traffic patterns or crafting productivity apps. This is where I document my learning journey especially in AI and Data Science.
+Welcome to my GitHub! A methodical and curious developer passionate about turning data into engaging digital experiences. I enjoy blending creativity with technical precision, especially through web-based solutions like Streamlit. This repo is where I’ll be building and sharing my journey into **Artificial Intelligence**, **Data Science**, and other interactive app-based projects.  I’m a developer with a knack for turning ideas into practical, interactive tools. My work blends **creativity**, **code**, and **real-world insight**, whether I'm analyzing traffic patterns or crafting productivity apps. This is where I document my learning journey especially in AI and Data Science.
 
 ---
 
