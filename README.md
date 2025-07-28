@@ -29,7 +29,7 @@ I continuously update this space as I complete new modules and develop skills in
 - 🧠 **Smart Daily Planner App** – A productivity assistant tailored for homemakers and remote workers .checkout here:[Smart Home Planner App](https://github.com/Zahab163/Smart_Home_PLanner.git)
 - 🛣️ **Traffic Visualization Project** – Analyzing day vs night volume and construction impacts. checkout here:[Data_ Quest_Traffic](https://github.com/Zahab163/Data_Quest_Traffic.git)
 - **Python Projects** - If you’re curious about my earlier Python projects (including scripts, utilities, and mini-tools), check out my other repository named [`python`](https://github.com/Zahab163/python).
-
+-**Star Wars Survey Analysis** - It's a Data Cleaning Project usins Python ( by Importing NumPy , Pandas and Matplotlib Libraries ) check it out it in this Repository [Star Wars Project]( )
 
 ---
 
