@@ -47,7 +47,10 @@ I continuously update this space as I complete new modules and develop skills in
 I’m all about learning, sharing, and growing through collaboration. You can find updates, insights, and project demos here and on:
 
 - 📌 [GitHub Projects](https://github.com/Zahab163)
-
+-    [Facebook](https://www.facebook.com/profile.php?id=61575636217032)
+-    [Twitter/X](@AhmedZahabia)
+-    [Instagram](https://www.instagram.com/zahabiaahmed/)
+-    [YouTube](https://www.youtube.com/@ZahabiaAhmed)
 Thanks for stopping by! 🌟  
 Feel free to explore, contribute, or reach out—I'm always up for exchanging ideas.
 
