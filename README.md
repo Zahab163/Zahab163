@@ -66,7 +66,7 @@ An elegant, user-friendly app to help you **record**, **analyze**, and **visuali
 Built with **Streamlit**, this project blends thoughtful design and practical utility—ideal for managing personal finance on the go.
 
 🔗 **Live Demo**: [Expense Tracker App](https://expensetrackerap.streamlit.app/)  
-📽️ **Screen Recording**: [Watch the App in Action](https://youtu.be/L7zJyRJDD8U?si=Tnv_eNqTZ4xV1--G)
+📽️ **Live Stream**: [Watch the App in Action](https://youtu.be/L7zJyRJDD8U?si=Tnv_eNqTZ4xV1--G)
 
 ---
 
