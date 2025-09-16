@@ -31,6 +31,8 @@ I continuously update this space as I complete new modules and develop skills in
 - **Python Projects** - If you’re curious about my earlier Python projects (including scripts, utilities, and mini-tools), check out my other repository named [`python`](https://github.com/Zahab163/python).
 - **Star Wars Survey Analysis** - It's a Data Cleaning Project usins Python ( by Importing NumPy , Pandas and Matplotlib Libraries ) check it out it in this Repository [Star Wars Project](https://github.com/Zahab163/Star_Wars_Project.git)
 -  **Housing Prices Analysis and Storytelling** - This assignment transforms raw housing data into a compelling story using Pandas, visualizations, and analytical insights to reveal the hidden dynamics of the real estate market..check out in this repository[Housing_Analysis](https://github.com/Zahab163/StoryTelling_HousingAnaysis.git)
+-  **Predicting Employee Productivity Using Tree-Based Models**
+This project analyzes employee productivity in a garment manufacturing setting using machine learning techniques,it applies Decision Tree and Random Forest models, validated through Cross-Validation, to predict actual productivity based on operational and behavioral features.[Predicting_Employee_Productivity_using_Tree_Models](https://github.com/Zahab163/ML_Predicting_Employee_Productivity_using_Tree_Models.git)
 
 ## 🔧 Tools I Use
 
