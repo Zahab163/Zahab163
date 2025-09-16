@@ -15,8 +15,12 @@ Welcome to my GitHub! A methodical and curious developer passionate about turnin
 - Data visualization exercises using Pandas, Seaborn, and Matplotlib  
 - Exploratory analysis inspired by real-world datasets  
 - Python tools that simulate physics, automate tasks, and analyze trends
--  Streamlit dashboards for interactive exploration  
-- API integration experiments and future automation ideas  
+-  Streamlit dashboards for interactive exploration
+-  Data Cleaning and processing
+-  Feature Engineering
+-  Prompt Engineering 
+- API integration experiments and future automation ideas
+-  Predictional Dataset calculations using above all techniques.
 
 I continuously update this space as I complete new modules and develop skills in AI, data handling, and Python logic.
 
@@ -38,9 +42,9 @@ This project analyzes employee productivity in a garment manufacturing setting u
 
 **Languages**: Python, Markdown  
 **Frameworks**: Streamlit  
-**Libraries**: NumPy, Pandas, Matplotlib, Seaborn  
-**Tools**: Git, GitHub, PowerShell, VS Code  
-**Concepts**: API integration, simulation, data analysis, creative UX design
+**Libraries**: NumPy, Pandas, Matplotlib, Seaborn,Scikitlearn, Feature Engineering (encoders,decoders)
+**Tools**: Git, GitHub, PowerShell, VS Code, Colab and Jupiter Notebooks.
+**Concepts**: Python, Pandas,NumPy, Seaborn,Data Cleaning and processing, Feature Engineering, Prompt Engineering, Machine Learning API integration, simulation, data analysis, creative UX design
 
 ---
 
