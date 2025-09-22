@@ -37,6 +37,7 @@ I continuously update this space as I complete new modules and develop skills in
 -  **Housing Prices Analysis and Storytelling** - This assignment transforms raw housing data into a compelling story using Pandas, visualizations, and analytical insights to reveal the hidden dynamics of the real estate market..check out in this repository[Housing_Analysis](https://github.com/Zahab163/StoryTelling_HousingAnaysis.git)
 -  **Predicting Employee Productivity Using Tree-Based Models** - This project analyzes employee productivity in a garment manufacturing setting using machine learning techniques,it applies Decision Tree and Random Forest models, validated through Cross-Validation, to predict actual productivity based on operational and behavioral features.[Predicting_Employee_Productivity_using_Tree_Models](https://github.com/Zahab163/ML_Predicting_Employee_Productivity_using_Tree_Models.git)
 -  **Housing Prices Predictor 2025** -This project uses machine learning to predict median house values across California based on housing and demographic features. It includes data preprocessing, model training, evaluation, and deployment using joblib. [Housing_Price_Predictor_2025](https://github.com/Zahab163/ML-housing-price-predictor.git)
+-  **Titanic_Survival_Report** - This project uses machine learning models to predict the Survival Rate in Titanic Historical event.[Titanic_Survival_Report](https://github.com/Zahab163/Titanic_Survival_Report.git)
 
 ## 🔧 Tools I Use
 
@@ -59,7 +60,7 @@ I’m all about learning, sharing, and growing through collaboration. You can fi
 -    [YouTube](https://www.youtube.com/@ZahabiaAhmed)
 -    
 
-Thanks for stopping by! 🌟  
+Thanks for stoping by! 🌟  
 Feel free to explore, contribute, or reach out—I'm always up for exchanging ideas.
 
  _Always a work in progress — just like great code._
