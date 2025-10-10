@@ -48,7 +48,7 @@ I continuously update this space as I complete new modules and develop skills in
 **Frameworks**: Streamlit  
 **Libraries**: NumPy, Pandas, Matplotlib, Seaborn,Scikitlearn, Feature Engineering (encoders,decoders)
 **Tools**: Git, GitHub, PowerShell, VS Code, Colab and Jupiter Notebooks.
-**Concepts**: Python, Pandas,NumPy, Seaborn,Data Cleaning and processing, Feature Engineering, Prompt Engineering, Machine Learning API integration, simulation, data analysis, creative UX design, joblib for Deployment.
+**Concepts**: Python, Pandas,NumPy, Seaborn,Data Cleaning and processing, Feature Engineering, Prompt Engineering, Machine Learning API integration, simulation, data analysis, creative UX design, joblib for Saving & Deployment.
 
 ---
 
@@ -94,7 +94,7 @@ Built with **Streamlit**, this project blends thoughtful design and practical ut
 
 - **Framework**: Streamlit  
 - **Language**: Python  
-- **Tools**: PowerShell, VS Code  
+- **Tools**: PowerShell, VS Code, Colab & Jupyter Notebooks,  Google Drive 
 - **Version Control**: Git & GitHub
 
 ---
