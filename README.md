@@ -29,7 +29,7 @@ I continuously update this space as I complete new modules and develop skills in
 ## 🚀 Personal Projects Worth Exploring
 
 - 💸 **Expense Tracker App** – Built with Streamlit, ideal for mindful budgeting . checkout here :[Expense Tracker App](https://github.com/Zahab163/Zahab163.git)
-- 🎡 **Motion Simulator** – A physics-based project using NumPy and Streamlit visuals.  checkout here:[Zahab163-Motion simulator](https://github.com/Zahab163/Motion_simulator_App)
+- 🎡 **Motion Simulator** – A physics-based project using NumPy and Streamlit visuals.  checkout here:[Motion simulator_App](https://github.com/Zahab163/Motion_simulator_App)
 - 🧠 **Smart Daily Planner App** – A productivity assistant tailored for homemakers and remote workers .checkout here:[Smart Home Planner App](https://github.com/Zahab163/Smart_Home_PLanner.git)
 - 🛣️ **Traffic Visualization Project** – Analyzing day vs night volume and construction impacts. checkout here:[Data_ Quest_Traffic](https://github.com/Zahab163/Data_Quest_Traffic.git)
 - **Python Projects** - If you’re curious about my earlier Python projects (including scripts, utilities, and mini-tools), check out my other repository named [`python`](https://github.com/Zahab163/python).
@@ -38,7 +38,7 @@ I continuously update this space as I complete new modules and develop skills in
 -  **Predicting Employee Productivity Using Tree-Based Models** - This project analyzes employee productivity in a garment manufacturing setting using machine learning techniques,it applies Decision Tree and Random Forest models, validated through Cross-Validation, to predict actual productivity based on operational and behavioral features.[Predicting_Employee_Productivity_using_Tree_Models](https://github.com/Zahab163/ML_Predicting_Employee_Productivity_using_Tree_Models.git)
 -  **Housing Prices Predictor 2025** -This project uses machine learning to predict median house values across California based on housing and demographic features. It includes data preprocessing, model training, evaluation, and deployment using joblib. [Housing_Price_Predictor_2025](https://github.com/Zahab163/ML-housing-price-predictor.git)
 -  **Titanic_Survival_Report** - This project uses machine learning models to predict the Survival Rate in Titanic Historical event.[Titanic_Survival_Report](https://github.com/Zahab163/Titanic_Survival_Report.git)
--  **Digital Marketing Image Generator App** - This is an assistant for specially for digital marketers to generate Images like logo , header, banners ,etc for different social media platforms and prompt generator for using in gerating desirable images in Canva and similar apps.[Digital Marketing Image Generator](https://partyrock.aws/u/Zahab163/NOKseFWqv/Digital-Marketing-Image-Generator)
+-  **Digital Marketing Image Generator App** - This is an assistant for specially for digital marketers to generate Images like logo , header, banners ,etc for different social media platforms and prompt generator for using in gerating desirable images in Canva and similar apps.[Digital Marketing Image Generator_App](https://partyrock.aws/u/Zahab163/NOKseFWqv/Digital-Marketing-Image-Generator)
 
 
 
@@ -48,7 +48,7 @@ I continuously update this space as I complete new modules and develop skills in
 **Frameworks**: Streamlit  
 **Libraries**: NumPy, Pandas, Matplotlib, Seaborn,Scikitlearn, Feature Engineering (encoders,decoders)
 **Tools**: Git, GitHub, PowerShell, VS Code, Colab and Jupiter Notebooks.
-**Concepts**: Python, Pandas,NumPy, Seaborn,Data Cleaning and processing, Feature Engineering, Prompt Engineering, Machine Learning API integration, simulation, data analysis, creative UX design, joblib for Saving & Deployment.
+**Concepts**: Python, Pandas,NumPy, Seaborn,Data Cleaning and processing, Feature Engineering, Prompt Engineering, Machine Learning API integration (In Process), simulation, data analysis, creative UX design, joblib for Saving & Deployment.
 
 ---
 
