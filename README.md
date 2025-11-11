@@ -40,7 +40,8 @@ I continuously update this space as I complete new modules and develop skills in
 -  **Titanic_Survival_Report** - This project uses machine learning models to predict the Survival Rate in Titanic Historical event.[Titanic_Survival_Report](https://github.com/Zahab163/Titanic_Survival_Report.git)
 -  **Digital Marketing Image Generator App** - This is an assistant for specially for digital marketers to generate Images like logo , header, banners ,etc for different social media platforms and prompt generator for using in gerating desirable images in Canva and similar apps.[Digital Marketing Image Generator_App](https://partyrock.aws/u/Zahab163/NOKseFWqv/Digital-Marketing-Image-Generator)
 -  **Wild_Blueberry_Yield_Predictions** -This project implements a comprehensive machine learning solution to predict wild blueberry yield based on various environmental and agricultural factors. The model helps farmers and agricultural experts optimize crop production by understanding key factors that influence blueberry yield.[Wild_Blueberry_Yield_Predictions](https://github.com/Zahab163/Wild_Blueberry_Yield_Predictions.git)
-
+-  **Customer_Segmentation_using_K-Means** - This project demonstrates unsupervised learning techniques to group customers into meaningful segments using K-Means clustering.
+  [Customer_Segmentation_using_K-Means](https://github.com/Zahab163/Customer_Segmentation_using_KMeans.git)
 
 
 ## 🔧 Tools I Use
