@@ -12,13 +12,14 @@ Welcome to my GitHub! A methodical and curious developer passionate about turnin
 
 ### 📚 What You’ll Find:
 - Machine learning mini-projects and concept walkthroughs  
-- Data visualization exercises using Pandas, Seaborn, and Matplotlib  
+- Data visualization exercises using Pandas, Seaborn, Matplotlib and Scikit-Learn
 - Exploratory analysis inspired by real-world datasets  
 - Python tools that simulate physics, automate tasks, and analyze trends
 -  Streamlit dashboards for interactive exploration
 -  Data Cleaning and processing
 -  Feature Engineering
--  Prompt Engineering 
+-  Prompt Engineering
+-  Joblib for saving the Model
 - API integration experiments and future automation ideas
 -  Predictional Dataset calculations using above all techniques.
 
@@ -48,7 +49,7 @@ I continuously update this space as I complete new modules and develop skills in
 
 **Languages**: Python, Markdown  
 **Frameworks**: Streamlit  
-**Libraries**: NumPy, Pandas, Matplotlib, Seaborn,Scikitlearn, Feature Engineering (encoders,decoders)
+**Libraries**: NumPy, Pandas, Matplotlib, Seaborn, Scikitlearn, Feature Engineering (encoders,decoders) and Joblib (for Saving the ML Model)
 **Tools**: Git, GitHub, PowerShell, VS Code, Colab and Jupiter Notebooks.
 **Concepts**: Python, Pandas,NumPy, Seaborn,Data Cleaning and processing, Feature Engineering, Prompt Engineering, Machine Learning API integration (In Process), simulation, data analysis, creative UX design, joblib for Saving & Deployment.
 
