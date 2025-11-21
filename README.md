@@ -43,6 +43,7 @@ I continuously update this space as I complete new modules and develop skills in
 -  **Wild_Blueberry_Yield_Predictions** -This project implements a comprehensive machine learning solution to predict wild blueberry yield based on various environmental and agricultural factors. The model helps farmers and agricultural experts optimize crop production by understanding key factors that influence blueberry yield.[Wild_Blueberry_Yield_Predictions](https://github.com/Zahab163/Wild_Blueberry_Yield_Predictions.git)
 -  **Customer_Segmentation_using_K-Means** - This project demonstrates unsupervised learning techniques to group customers into meaningful segments using K-Means clustering.
   [Customer_Segmentation_using_K-Means](https://github.com/Zahab163/Customer_Segmentation_using_KMeans.git)
+- **Income_Inequality_Predictor_App** - This machine learning project addresses the growing problem of income inequality by developing predictive models that can determine whether an individual's income is above or below a specific threshold. Complete Streamlit processed work.[ Income_Inequality_in_Developing_Nations](https://github.com/Zahab163/Income_Inequality_in_Developing_Nations.git)
 
 
 ## 🔧 Tools I Use
