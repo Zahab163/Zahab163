@@ -65,7 +65,16 @@ I’m all about learning, sharing, and growing through collaboration. You can fi
 -    [Twitter/X](@AhmedZahabia)
 -    [Instagram](https://www.instagram.com/zahabiaahmed/)
 -    [YouTube](https://www.youtube.com/@ZahabiaAhmed)
--    
+-    [Gmail_1](zahabia0ahmed@gmail.com)
+-    [Gmail_2](bintesahmed8@gmail.com)
+-    [WhatsApp_1](+923323924734)
+-    [WhatsApp_2](+923428000274)
+-    **Zoom**: Zahabia Ahmed
+-    **Teams**: Zahabia Ahmed
+-    [Credly](credly.com/users/zahabia-ahmed)
+-    **treads**: ZahabiaAhmed
+-    [**Curriculum Vitae**](https://docs.google.com/document/d/1gAtPPkpzCgcj5ZgM7okqwmlh-K4Sy2MM7wRvYUV76wY/edit?usp=sharing)
+-    [Pinterest](https://pin.it/47OMFKosD)
 
 Thanks for stoping by! 🌟  
 Feel free to explore, contribute, or reach out—I'm always up for exchanging ideas.
