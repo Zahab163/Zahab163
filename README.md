@@ -44,6 +44,7 @@ I continuously update this space as I complete new modules and develop skills in
 -  **Customer_Segmentation_using_K-Means** - This project demonstrates unsupervised learning techniques to group customers into meaningful segments using K-Means clustering.
   [Customer_Segmentation_using_K-Means](https://github.com/Zahab163/Customer_Segmentation_using_KMeans.git)
 - **Income_Inequality_Predictor_App** - This machine learning project addresses the growing problem of income inequality by developing predictive models that can determine whether an individual's income is above or below a specific threshold. Complete Streamlit processed work.[ Income_Inequality_in_Developing_Nations](https://github.com/Zahab163/Income_Inequality_in_Developing_Nations.git)
+- **Accident Severity Prediction with Machine Learning** - It presents a complete machine learning pipeline to predict road accident severity using real-world traffic data.[accident_severity_analysis](https://github.com/Zahab163/accident_severity_analysis_ml.git)
 
 
 ## 🔧 Tools I Use
@@ -65,16 +66,16 @@ I’m all about learning, sharing, and growing through collaboration. You can fi
 -    [Twitter/X](@AhmedZahabia)
 -    [Instagram](https://www.instagram.com/zahabiaahmed/)
 -    [YouTube](https://www.youtube.com/@ZahabiaAhmed)
--    [Gmail_1](zahabia0ahmed@gmail.com)
--    [Gmail_2](bintesahmed8@gmail.com)
+-    zahabia0ahmed@gmail.com
+-    bintesahmed8@gmail.com
 -    [WhatsApp_1](+923323924734)
 -    [WhatsApp_2](+923428000274)
 -    **Zoom**: Zahabia Ahmed
 -    **Teams**: Zahabia Ahmed
 -    [Credly](credly.com/users/zahabia-ahmed)
 -    **treads**: ZahabiaAhmed
--    [**Curriculum Vitae**](https://docs.google.com/document/d/1gAtPPkpzCgcj5ZgM7okqwmlh-K4Sy2MM7wRvYUV76wY/edit?usp=sharing)
--    [Pinterest](https://pin.it/47OMFKosD)
+- [**Curriculum Vitae**](https://docs.google.com/document/d/1gAtPPkpzCgcj5ZgM7okqwmlh-K4Sy2MM7wRvYUV76wY/edit?usp=sharing)
+- [Pinterest](https://pin.it/47OMFKosD)
 
 Thanks for stoping by! 🌟  
 Feel free to explore, contribute, or reach out—I'm always up for exchanging ideas.
