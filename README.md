@@ -1,64 +1,61 @@
-
-
 # 👋 Hi there, I'm Zahabia Ahmed
 
-Welcome to my GitHub! A methodical and curious developer passionate about turning data into engaging digital experiences. I enjoy blending creativity with technical precision, especially through web-based solutions like Streamlit. This repo is where I’ll be building and sharing my journey into **Artificial Intelligence**, **Data Science**, and other interactive app-based projects.  I’m a developer with a knack for turning ideas into practical, interactive tools. My work blends **creativity**, **code**, and **real-world insight**, whether I'm analyzing traffic patterns or crafting productivity apps. This is where I document my learning journey especially in AI and Data Science.
+Welcome to my GitHub!  
+I'm a methodical and curious developer passionate about turning data into engaging digital experiences.  
+I blend creativity with technical precision—especially through web-based solutions like **Streamlit**—to build interactive tools and apps.  
+
+This repository documents my journey into **Artificial Intelligence** and **Data Science**, where theory meets hands-on experimentation.
 
 ---
 
 ## 🧠 Python Projects: My Learning Lab
+This repo is a collection of all the projects I’m exploring in my AI and Data Science coursework, plus everything I build to dig deeper into the field. It's where theory meets hands-on experimentation.
 
-🔎 This repo is a collection of all the projects I’m exploring in my **AI and Data Science coursework**, plus everything I build to dig deeper into the field. It's where theory meets hands-on experimentation.
-
-### 📚 What You’ll Find:
+### 📚 What You’ll Find
 - Machine learning mini-projects and concept walkthroughs  
-- Data visualization exercises using Pandas, Seaborn, Matplotlib and Scikit-Learn
+- Data visualization exercises using Pandas, Seaborn, Matplotlib, and Scikit-Learn  
 - Exploratory analysis inspired by real-world datasets  
-- Python tools that simulate physics, automate tasks, and analyze trends
--  Streamlit dashboards for interactive exploration
--  Data Cleaning and processing
--  Feature Engineering
--  Prompt Engineering
--  Joblib for saving the Model
-- API integration experiments and future automation ideas
--  Predictional Dataset calculations using above all techniques.
+- Python tools that simulate physics, automate tasks, and analyze trends  
+- Streamlit dashboards for interactive exploration  
+- Data cleaning and processing  
+- Feature engineering  
+- Prompt engineering  
+- Joblib for saving models  
+- API integration experiments and automation ideas  
+- Predictive dataset calculations using all the above techniques  
 
 I continuously update this space as I complete new modules and develop skills in AI, data handling, and Python logic.
 
 ---
 
-## 🚀 Personal Projects Worth Exploring
-
-- 💸 **Expense Tracker App** – Built with Streamlit, ideal for mindful budgeting . checkout here :[Expense Tracker App](https://github.com/Zahab163/Zahab163.git)
-- 🎡 **Motion Simulator** – A physics-based project using NumPy and Streamlit visuals.  checkout here:[Motion simulator_App](https://github.com/Zahab163/Motion_simulator_App)
-- 🧠 **Smart Daily Planner App** – A productivity assistant tailored for homemakers and remote workers .checkout here:[Smart Home Planner App](https://github.com/Zahab163/Smart_Home_PLanner.git)
-- 🛣️ **Traffic Visualization Project** – Analyzing day vs night volume and construction impacts. checkout here:[Data_ Quest_Traffic](https://github.com/Zahab163/Data_Quest_Traffic.git)
-- **Python Projects** - If you’re curious about my earlier Python projects (including scripts, utilities, and mini-tools), check out my other repository named [`python`](https://github.com/Zahab163/python).
-- **Star Wars Survey Analysis** - It's a Data Cleaning Project usins Python ( by Importing NumPy , Pandas and Matplotlib Libraries ) check it out it in this Repository [Star Wars Project](https://github.com/Zahab163/Star_Wars_Project.git)
--  **Housing Prices Analysis and Storytelling** - This assignment transforms raw housing data into a compelling story using Pandas, visualizations, and analytical insights to reveal the hidden dynamics of the real estate market..check out in this repository[Housing_Analysis](https://github.com/Zahab163/StoryTelling_HousingAnaysis.git)
--  **Predicting Employee Productivity Using Tree-Based Models** - This project analyzes employee productivity in a garment manufacturing setting using machine learning techniques,it applies Decision Tree and Random Forest models, validated through Cross-Validation, to predict actual productivity based on operational and behavioral features.[Predicting_Employee_Productivity_using_Tree_Models](https://github.com/Zahab163/ML_Predicting_Employee_Productivity_using_Tree_Models.git)
--  **Housing Prices Predictor 2025** -This project uses machine learning to predict median house values across California based on housing and demographic features. It includes data preprocessing, model training, evaluation, and deployment using joblib. [Housing_Price_Predictor_2025](https://github.com/Zahab163/ML-housing-price-predictor.git)
--  **Titanic_Survival_Report** - This project uses machine learning models to predict the Survival Rate in Titanic Historical event.[Titanic_Survival_Report](https://github.com/Zahab163/Titanic_Survival_Report.git)
--  **Digital Marketing Image Generator App** - This is an assistant for specially for digital marketers to generate Images like logo , header, banners ,etc for different social media platforms and prompt generator for using in gerating desirable images in Canva and similar apps.[Digital Marketing Image Generator_App](https://partyrock.aws/u/Zahab163/NOKseFWqv/Digital-Marketing-Image-Generator)
--  **Wild_Blueberry_Yield_Predictions** -This project implements a comprehensive machine learning solution to predict wild blueberry yield based on various environmental and agricultural factors. The model helps farmers and agricultural experts optimize crop production by understanding key factors that influence blueberry yield.[Wild_Blueberry_Yield_Predictions](https://github.com/Zahab163/Wild_Blueberry_Yield_Predictions.git)
--  **Customer_Segmentation_using_K-Means** - This project demonstrates unsupervised learning techniques to group customers into meaningful segments using K-Means clustering.
-  [Customer_Segmentation_using_K-Means](https://github.com/Zahab163/Customer_Segmentation_using_KMeans.git)
-- **Income_Inequality_Predictor_App** - This machine learning project addresses the growing problem of income inequality by developing predictive models that can determine whether an individual's income is above or below a specific threshold. Complete Streamlit processed work.[ Income_Inequality_in_Developing_Nations](https://github.com/Zahab163/Income_Inequality_in_Developing_Nations.git)
-- **Accident Severity Prediction with Machine Learning** - It presents a complete machine learning pipeline to predict road accident severity using real-world traffic data.[accident_severity_analysis](https://github.com/Zahab163/accident_severity_analysis_ml.git)
-
-
-## 🔧 Tools I Use
-
-**Languages**: Python, Markdown  
-**Frameworks**: Streamlit  
-**Libraries**: NumPy, Pandas, Matplotlib, Seaborn, Scikitlearn, Feature Engineering (encoders,decoders) and Joblib (for Saving the ML Model)
-**Tools**: Git, GitHub, PowerShell, VS Code, Colab and Jupiter Notebooks.
-**Concepts**: Python, Pandas,NumPy, Seaborn,Data Cleaning and processing, Feature Engineering, Prompt Engineering, Machine Learning API integration (In Process), simulation, data analysis, creative UX design, joblib for Saving & Deployment.
+## 🚀 Featured Projects
+💸 [Expense Tracker App](https://github.com/Zahab163/Zahab163.git) – Built with Streamlit, ideal for mindful budgeting  
+🎡 [Motion Simulator App](https://github.com/Zahab163/Motion_simulator_App.git) – A physics-based project using NumPy and Streamlit visuals  
+🧠 [Smart Daily Planner App](https://github.com/Zahab163/Smart_Home_PLanner.git) – A productivity assistant tailored for homemakers and remote workers  
+🛣️ [Traffic Visualization Project](https://github.com/Zahab163/Data_Quest_Traffic.git) – Analyzing day vs night volume and construction impacts  
+📊 [Star Wars Survey Analysis](https://github.com/Zahab163/Star_Wars_Project.git) – Data cleaning project using NumPy, Pandas, and Matplotlib  
+🏡 [Housing Prices Analysis](link-to-repo-or-apphttps://github.com/Zahab163/StoryTelling_HousingAnaysis.git) – Storytelling with housing data using Pandas and visualizations  
+👔 [Predicting Employee Productivity](https://github.com/Zahab163/ML_Predicting_Employee_Productivity_using_Tree_Models.git) – Decision Tree & Random Forest models with cross-validation  
+🏡 [Housing Prices Predictor 2025](https://github.com/Zahab163/ML-housing-price-predictor.git) – ML model predicting California housing prices, deployed with Joblib  
+🚢 [Titanic Survival Report](https://github.com/Zahab163/Titanic_Survival_Report.git) – Predicting survival rates using ML models  
+🎨 [Digital Marketing Image Generator App](https://github.com/Zahab163/Digital_Marketing_Image_Generator_App.git) – Assists marketers in generating logos, banners, and prompts  
+🫐 [Wild Blueberry Yield Predictions](https://github.com/Zahab163/Wild_Blueberry_Yield_Predictions.git) – ML solution for agricultural optimization  
+👥 [Customer Segmentation using K-Means](https://github.com/Zahab163/Customer_Segmentation_using_KMeans.git) – Unsupervised learning for customer grouping  
+💰 [Income Inequality Predictor App](https://github.com/Zahab163/Income_Inequality_in_Developing_Nations.git) – Streamlit ML app for income threshold prediction  
+🚦 [Accident Severity Prediction](https://github.com/Zahab163/accident_severity_analysis_ml.git) – ML pipeline analyzing road accident severity  
 
 ---
 
-## 🌐 Connect with Me
+## 🔧 Tools I Use
+- **Languages:** Python, Markdown, SQL  
+- **Frameworks:** Streamlit , PartyRock,  
+- **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn  
+- **Techniques:** Data Cleaning, Feature Engineering, Prompt Engineering, Model Deployment with Joblib  
+- **Tools:** Git, GitHub, PowerShell, VS Code, Colab, Jupyter Notebooks , Postman 
 
+------
+
+## 🌐 Connect with Me
 I’m all about learning, sharing, and growing through collaboration. You can find updates, insights, and project demos here and on:
 
 - 📌 [GitHub Projects](https://github.com/Zahab163)
@@ -108,7 +105,7 @@ Built with **Streamlit**, this project blends thoughtful design and practical ut
 
 - **Framework**: Streamlit  
 - **Language**: Python  
-- **Tools**: PowerShell, VS Code, Colab & Jupyter Notebooks,  Google Drive 
+- **Tools**: PowerShell, VS Code, Colab & Jupyter Notebooks,  Google Drive , Postman
 - **Version Control**: Git & GitHub
 
 ---
