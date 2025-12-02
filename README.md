@@ -35,7 +35,7 @@ This repo is a collection of all the projects I’m exploring in my AI and Data 
 🧠 [Smart Daily Planner App](https://github.com/Zahab163/Smart_Home_PLanner.git) – A productivity assistant tailored for homemakers and remote workers  
 🛣️ [Traffic Visualization Project](https://github.com/Zahab163/Data_Quest_Traffic.git) – Analyzing day vs night volume and construction impacts  
 📊 [Star Wars Survey Analysis](https://github.com/Zahab163/Star_Wars_Project.git) – Data cleaning project using NumPy, Pandas, and Matplotlib  
-🏡 [Housing Prices Analysis](https://github.com/Zahab163/StoryTelling_HousingAnaysis.git) – Storytelling with housing data using Pandas and visualizations  
+🏡 [Housing Prices Analysis](https://github.com/Zahab163/StoryTelling_HousingAnalysis.git) – Storytelling with housing data using Pandas and visualizations  
 👔 [Predicting Employee Productivity](https://github.com/Zahab163/ML_Predicting_Employee_Productivity_using_Tree_Models.git) – Decision Tree & Random Forest models with cross-validation  
 🏡 [Housing Prices Predictor 2025](https://github.com/Zahab163/ML-housing-price-predictor.git) – ML model predicting California housing prices, deployed with Joblib  
 🚢 [Titanic Survival Report](https://github.com/Zahab163/Titanic_Survival_Report.git) – Predicting survival rates using ML models  
@@ -77,7 +77,7 @@ I’m all about learning, sharing, and growing through collaboration. You can fi
 - [**Curriculum Vitae**](https://docs.google.com/document/d/1gAtPPkpzCgcj5ZgM7okqwmlh-K4Sy2MM7wRvYUV76wY/edit?usp=sharing)
 - [Pinterest](https://pin.it/47OMFKosD)
 
-Thanks for stoping by! 🌟  
+Thanks for stopping by! 🌟  
 Feel free to explore, contribute, or reach out—I'm always up for exchanging ideas.
 
  _Always a work in progress — just like great code._
