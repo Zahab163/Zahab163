@@ -22,14 +22,11 @@ This repo is a collection of all the projects I’m exploring in my AI and Data 
 - Prompt engineering  
 - Joblib for saving models  
 - API integration experiments and automation ideas  
-- Predictive dataset calculations using all the above techniques
-- - Computer vision projects using YOLOv8, ResNet, and OpenCV  
+- Predictive dataset calculations using all the above techniques  
+- Computer vision projects using YOLOv8, ResNet, and OpenCV  
 - Image processing fundamentals: filtering, transformations, and analysis workflows  
-- Model deployment experiments on Streamlit, (In Future Google Cloud, and edge devices (Raspberry Pi, Jetson Nano))   
-- Reproducible dataset preparation and annotation conversion for training pipelines    
-
-I continuously update this space as I complete new modules and develop skills in AI, data handling, and Python logic.
-
+- Model deployment experiments on Streamlit (future expansion planned)  
+- Reproducible dataset preparation and annotation conversion for training pipelines  
 ---
 
 ## 🚀 Featured Projects
@@ -38,7 +35,7 @@ I continuously update this space as I complete new modules and develop skills in
 🧠 [Smart Daily Planner App](https://github.com/Zahab163/Smart_Home_PLanner.git) – A productivity assistant tailored for homemakers and remote workers  
 🛣️ [Traffic Visualization Project](https://github.com/Zahab163/Data_Quest_Traffic.git) – Analyzing day vs night volume and construction impacts  
 📊 [Star Wars Survey Analysis](https://github.com/Zahab163/Star_Wars_Project.git) – Data cleaning project using NumPy, Pandas, and Matplotlib  
-🏡 [Housing Prices Analysis](link-to-repo-or-apphttps://github.com/Zahab163/StoryTelling_HousingAnaysis.git) – Storytelling with housing data using Pandas and visualizations  
+🏡 [Housing Prices Analysis](https://github.com/Zahab163/StoryTelling_HousingAnaysis.git) – Storytelling with housing data using Pandas and visualizations  
 👔 [Predicting Employee Productivity](https://github.com/Zahab163/ML_Predicting_Employee_Productivity_using_Tree_Models.git) – Decision Tree & Random Forest models with cross-validation  
 🏡 [Housing Prices Predictor 2025](https://github.com/Zahab163/ML-housing-price-predictor.git) – ML model predicting California housing prices, deployed with Joblib  
 🚢 [Titanic Survival Report](https://github.com/Zahab163/Titanic_Survival_Report.git) – Predicting survival rates using ML models  
@@ -47,9 +44,9 @@ I continuously update this space as I complete new modules and develop skills in
 👥 [Customer Segmentation using K-Means](https://github.com/Zahab163/Customer_Segmentation_using_KMeans.git) – Unsupervised learning for customer grouping  
 💰 [Income Inequality Predictor App](https://github.com/Zahab163/Income_Inequality_in_Developing_Nations.git) – Streamlit ML app for income threshold prediction  
 🚦 [Accident Severity Prediction](https://github.com/Zahab163/accident_severity_analysis_ml.git) – ML pipeline analyzing road accident severity  
-🖼️ [Image Processing Basics](https://github.com/Zahab163/image_processing_basics.git) – Foundational Python scripts demonstrating image filtering, transformations, and analysis techniques.
-🪖 [Helmet Detection YOLOv8 + ResNet18](https://github.com/Zahab163/helmet-detection-yolov8-restnet-ai.git) – Deep learning pipeline for detecting helmets using YOLOv8 and ResNet18, with deployment-ready structure.  
+🖼️ [Image Processing Basics](https://github.com/Zahab163/image_processing_basics) – Foundational Python scripts demonstrating image filtering, transformations, and analysis techniques.  
 
+🪖 [Helmet Detection YOLOv8 + ResNet18](https://github.com/Zahab163/helmet-detection-yolov8-restnet-ai) – Deep learning pipeline for detecting helmets using YOLOv8 and ResNet18.  
 
 
 ---
@@ -59,7 +56,7 @@ I continuously update this space as I complete new modules and develop skills in
 - **Frameworks:** Streamlit, PartyRock, TensorFlow, PyTorch  
 - **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, OpenCV, YOLOv8  
 - **Techniques:** Data Cleaning, Feature Engineering, Prompt Engineering, Model Deployment with Joblib, Computer Vision, Transfer Learning  
-- **Tools:** Git, GitHub, PowerShell, VS Code, Colab, Jupyter Notebooks, Postman, Google Cloud, Kaggle  
+- **Tools:** Git, GitHub, PowerShell, VS Code, Colab, Jupyter Notebooks, Postman, Kaggle  
 ------
 
 ## 🌐 Connect with Me
@@ -72,12 +69,12 @@ I’m all about learning, sharing, and growing through collaboration. You can fi
 -    [YouTube](https://www.youtube.com/@ZahabiaAhmed)
 -    zahabia0ahmed@gmail.com
 -    bintesahmed8@gmail.com
--    [WhatsApp_1](+923323924734)
--    [WhatsApp_2](+923428000274)
+-    [WhatsApp_1](http://whatsapp/923323924734)
+-    [WhatsApp_2](http://whatsapp/923428000274)
 -    **Zoom**: Zahabia Ahmed
 -    **Teams**: Zahabia Ahmed
 -    [Credly](credly.com/users/zahabia-ahmed)
--    **treads**: ZahabiaAhmed
+-    **Threads**: ZahabiaAhmed
 - [**Curriculum Vitae**](https://docs.google.com/document/d/1gAtPPkpzCgcj5ZgM7okqwmlh-K4Sy2MM7wRvYUV76wY/edit?usp=sharing)
 - [Pinterest](https://pin.it/47OMFKosD)
 
