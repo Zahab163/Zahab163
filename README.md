@@ -45,7 +45,6 @@ This repo is a collection of all the projects I’m exploring in my AI and Data 
 💰 [Income Inequality Predictor App](https://github.com/Zahab163/Income_Inequality_in_Developing_Nations.git) – Streamlit ML app for income threshold prediction  
 🚦 [Accident Severity Prediction](https://github.com/Zahab163/accident_severity_analysis_ml.git) – ML pipeline analyzing road accident severity  
 🖼️ [Image Processing Basics](https://github.com/Zahab163/image_processing_basics) – Foundational Python scripts demonstrating image filtering, transformations, and analysis techniques.  
-
 🪖 [Helmet Detection YOLOv8 + ResNet18](https://github.com/Zahab163/helmet-detection-yolov8-restnet-ai) – Deep learning pipeline for detecting helmets using YOLOv8 and ResNet18.  
 
 
@@ -69,8 +68,8 @@ I’m all about learning, sharing, and growing through collaboration. You can fi
 -    [YouTube](https://www.youtube.com/@ZahabiaAhmed)
 -    zahabia0ahmed@gmail.com
 -    bintesahmed8@gmail.com
--    [WhatsApp_1](http://whatsapp/923323924734)
--    [WhatsApp_2](http://whatsapp/923428000274)
+-  [WhatsApp_1](https://wa.me/923323924734)  
+-  [WhatsApp_2](https://wa.me/923428000274)    
 -    **Zoom**: Zahabia Ahmed
 -    **Teams**: Zahabia Ahmed
 -    [Credly](credly.com/users/zahabia-ahmed)
