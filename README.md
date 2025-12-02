@@ -43,8 +43,7 @@ I continuously update this space as I complete new modules and develop skills in
 👥 [Customer Segmentation using K-Means](https://github.com/Zahab163/Customer_Segmentation_using_KMeans.git) – Unsupervised learning for customer grouping  
 💰 [Income Inequality Predictor App](https://github.com/Zahab163/Income_Inequality_in_Developing_Nations.git) – Streamlit ML app for income threshold prediction  
 🚦 [Accident Severity Prediction](https://github.com/Zahab163/accident_severity_analysis_ml.git) – ML pipeline analyzing road accident severity  
-🖼️ [Image Processing Basics](https://github.com/Zahab163/image_processing_basics.git) – Foundational Python scripts demonstrating image filtering, transformations, and analysis techniques for beginners.
-
+🖼️ [Image Processing Basics](https://github.com/Zahab163/image_processing_basics.git) – Foundational Python scripts demonstrating image filtering, transformations, and analysis techniques.
 🪖 [Helmet Detection YOLOv8 + ResNet18](https://github.com/Zahab163/helmet-detection-yolov8-restnet-ai.git) – Deep learning pipeline for detecting helmets using YOLOv8 and ResNet18, with deployment-ready structure.  
 
 
