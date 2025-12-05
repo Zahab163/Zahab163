@@ -14,7 +14,7 @@ This repo is a collection of all the projects I’m exploring in my AI and Data 
 
 ### 📚 What You’ll Find
 - Machine learning mini-projects and concept walkthroughs  
-- Data visualization exercises using Pandas, Seaborn, Matplotlib, Plotly, and Scikit-Learn  
+- Data visualization exercises using Pandas, Seaborn, Matplotlib, Plotly, WordCloud and Scikit-Learn  
 - Exploratory analysis inspired by real-world datasets  
 - NLP projects including Fake News Detection (LSTM, Logistic Regression, DistilBERT comparison)  
 - Python tools that simulate physics, automate tasks, and analyze trends  
