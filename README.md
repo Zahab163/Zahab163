@@ -11,21 +11,22 @@ This repository documents my journey into **Artificial Intelligence** and **Data
 ## 🧠 Python Projects: My Learning Lab
 This repo is a collection of all the projects I’m exploring in my AI and Data Science coursework, plus everything I build to dig deeper into the field. It's where theory meets hands-on experimentation.
 
+
 ### 📚 What You’ll Find
 - Machine learning mini-projects and concept walkthroughs  
-- Data visualization exercises using Pandas, Seaborn, Matplotlib, and Scikit-Learn  
+- Data visualization exercises using Pandas, Seaborn, Matplotlib, Plotly, and Scikit-Learn  
 - Exploratory analysis inspired by real-world datasets  
+- NLP projects including Fake News Detection (LSTM, Logistic Regression, DistilBERT comparison)  
 - Python tools that simulate physics, automate tasks, and analyze trends  
-- Streamlit dashboards for interactive exploration  
-- Data cleaning and processing  
-- Feature engineering  
-- Prompt engineering  
-- Joblib for saving models  
+- Streamlit dashboards and Hugging Face Spaces for interactive exploration  
+- Data cleaning, preprocessing, and feature engineering workflows  
+- Prompt engineering experiments for generative AI  
+- Joblib and Pickle for saving and deploying models  
 - API integration experiments and automation ideas  
-- Predictive dataset calculations using all the above techniques  
+- Predictive dataset calculations using ML and statistical techniques  
 - Computer vision projects using YOLOv8, ResNet, and OpenCV  
 - Image processing fundamentals: filtering, transformations, and analysis workflows  
-- Model deployment experiments on Streamlit (future expansion planned)  
+- Model deployment experiments on Streamlit (with future expansion planned)  
 - Reproducible dataset preparation and annotation conversion for training pipelines  
 ---
 
