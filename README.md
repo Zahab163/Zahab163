@@ -47,7 +47,8 @@ This repo is a collection of all the projects I’m exploring in my AI and Data 
 🚦 [Accident Severity Prediction](https://github.com/Zahab163/accident_severity_analysis_ml.git) – ML pipeline analyzing road accident severity  
 🖼️ [Image Processing Basics](https://github.com/Zahab163/image_processing_basics) – Foundational Python scripts demonstrating image filtering, transformations, and analysis techniques.  
 📰 [Fake News Detection with LSTM](https://github.com/Zahab163/fake_news_detection_LSTM.git) — Deep learning workflow for classifying news as fake or real.  
-📊 [Fake News Detection: Model Comparison](https://github.com/Zahab163/fake-news-detection-ml-dl-transformers.git) — Side‑by‑side evaluation of Logistic Regression, LSTM, and DistilBERT with unified metrics.
+📊 [Fake News Detection: Model Comparison](https://github.com/Zahab163/fake-news-detection-ml-dl-transformers.git) — Side‑by‑side evaluation of Logistic Regression, LSTM, and DistilBERT with unified metrics. 
+
 🪖 [Helmet Detection YOLOv8 + ResNet18](https://github.com/Zahab163/helmet-detection-yolov8-restnet-ai) – Deep learning pipeline for detecting helmets using YOLOv8 and ResNet18. 
 
 
