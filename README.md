@@ -50,6 +50,7 @@ This repo is a collection of all the projects I’m exploring in my AI and Data 
 📊 [Fake News Detection: Model Comparison](https://github.com/Zahab163/fake-news-detection-ml-dl-transformers.git) — Side‑by‑side evaluation of Logistic Regression, LSTM, and DistilBERT with unified metrics. 
 
 🪖 [Helmet Detection YOLOv8 + ResNet18](https://github.com/Zahab163/helmet-detection-yolov8-restnet-ai) – Deep learning pipeline for detecting helmets using YOLOv8 and ResNet18. 
+
 [Employee Productivity Prediction](https://github.com/Zahab163/ML_Predicting_Employee_Productivity_using_Tree_Models.git) - Tree-based model to predict workforce efficiency Random Forest, XGBoost
 
 
